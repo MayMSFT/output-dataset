@@ -10,3 +10,5 @@ With the launch of this new feature, we are enabling the write capability on Dat
 
 - Users will be able to track the lineage between experiment and output dataset
 
+## Known Issue
+- Parallel Run Step with multiple nodes is not supported at the moment. 
