@@ -1,3 +1,4 @@
+
 # Copyright (c) Microsoft Corporation. All rights reserved.
 # Licensed under the MIT License.
 import argparse
@@ -22,6 +23,3 @@ with open(args.datadir, 'r') as f:
     content = f.read()
     with open(os.path.join(args.output, 'output.csv'), 'w') as fw:
         fw.write(content)
-
-
-
