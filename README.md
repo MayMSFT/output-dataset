@@ -9,7 +9,3 @@ With the launch of this new feature, we are enabling writing back to Blob, ADLS 
 - Users will be able to write back to Blob, ADLS Gen 1, ADLS Gen 2, FileShare via either upload or mount
 
 - Users will be able to track the lineage between experiment and output dataset
-
-## Known issues
-
-- Parallel Run Step with multiple nodes is not supported at the moment. 
